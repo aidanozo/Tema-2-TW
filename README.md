@@ -60,9 +60,27 @@ but an old, not so useful one. If you cannot find such a website, you can also t
    - Multiple commits should be created, each with descriptive messages
 - Code MUST be formatted properly, according to the [prettier](https://prettier.io/) rules. You can use the [VSCode plugin](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) for this. You can even enable [format on save](https://blog.yogeshchavan.dev/automatically-format-code-on-file-save-in-visual-studio-code-using-prettier) from it
 
+
 ## Hints
 
 - This project will be evaluated against four pillars:
     - _Visual style_. This includes how the application looks, how it responds to screen resolution changes, and how friendly and easy to use it is.
-    - _Code correctiveness_. Is the code following the standards properly? Or is it just a mismash of things put there until it works.# Presentation site for an NGO
+    - _Code correctiveness_. Is the code following the standards properly? Or is it just a mishmash of things put there until it works.
+    - _Content_. The website itself need to have rich content, with pictures, text, and friendly navigations.
+    - _Presentation_. How are you presenting the project? Can you emphasize all its features and show the code that you used to create them?
+    
+### Technical help
 
+- All of the existing courses on Moodle
+- <i class="far fa-book-open"></i> [About Wireframing](https://www.awwwards.com/wireframe-basics-for-beginners-an-agency-perspective.html)
+- <i class="far fa-book-open"></i> [About Landing Page](https://www.awwwards.com/how-a-simple-landing-page-can-drastically-change-the-face-of-your-business.html)
+- <i class="far fa-exclamation"></i> [Floating documentation](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Floats)
+- <i class="far fa-exclamation"></i> [Flexbox documentation](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox)
+- <i class="far fa-exclamation"></i> [Flexbox tutorial](https://flexbox.io/)
+- <i class="far fa-video"></i> [How to use flexbox](https://www.youtube.com/watch?v=Vj7NZ6FiQvo&list=PLu8EoSxDXHP7xj_y6NIAhy0wuCd4uVdid) (you just need the Tutorial 2-9)
+- <i class="far fa-exclamation"></i> [Grid documentation](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Grids)
+- <i class="far fa-exclamation"></i> [Grid tutorial](https://cssgrid.io/)
+- <i class="far fa-video"></i> [CSS grid fundamentals](https://www.youtube.com/watch?v=T-slCsOrLcc&list=PLu8EoSxDXHP5CIFvt9-ze3IngcdAc2xKG) (you just need the Tutorial 3-11)
+- <i class="far fa-book-open"></i> [Lorem ipsum](https://www.lipsum.com/)
+- <i class="far fa-book-open"></i> [Web design history](https://blog.froont.com/brief-history-of-web-design-for-designers/)
+- <i class="far fa-candy-cane"></i> [Layout tutorial from nothing to flexbox](https://learnlayout.com/)
